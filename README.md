@@ -6,7 +6,7 @@
     <img height="210cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarraroGabriel&&size_weight=1&count_weight=0&theme=midnight-purple"/>
 </div>
 
-## I'm a university student and these are the most common languages ​​in my daily life: 👨‍💻
+## I'm a university student and these are the most common languages and tools ​​in my daily life: 👨‍💻
 
 <div style="display: inline_block"><br>
     <img align="center" alt="C" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
