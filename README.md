@@ -2,19 +2,19 @@
 
 <div>
     <a href="https://github.com/CarraroGabriel">
-    <img height="130cm" src="https://github-readme-stats.vercel.app/api?username=CarraroGabriel&show_icons=true&theme=midnight-purple"/>
-    <img height="130cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarraroGabriel&&size_weight=1&count_weight=0&theme=midnight-purple"/>
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=CarraroGabriel&show_icons=true&theme=midnight-purple"/>
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarraroGabriel&&size_weight=1&count_weight=0&theme=midnight-purple"/>
 </div>
 
 ## I'm a university student and these are the most common languages ​​in my daily life: 👨‍💻
 
 <div style="display: inline_block"><br>
-    <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
-    <img align="center" alt="css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-    <img align="center" alt="html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>          
-    <img align="center" alt="javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-    <img align="center" alt="postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>                   
-    <img align="center" alt="php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>         
+    <img align="center" alt="C" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
+    <img align="center" alt="css3" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+    <img align="center" alt="html5" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>          
+    <img align="center" alt="javascript" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+    <img align="center" alt="postgresql" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>                   
+    <img align="center" alt="php" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>         
 </div>
 
 ## Contact me: 📲
